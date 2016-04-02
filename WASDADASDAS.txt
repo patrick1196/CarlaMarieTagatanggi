@@ -11,6 +11,7 @@ at mayroon siyang pinakita
 
 nilabas nya ang knyang nagiinit na tikitita
 
+<<<<<<< edb91afe80f9fca8b69f78b6d8954c09ae2feff1
 sya ay...
 
 nanlandi sa isang lalaking nangangalang joshua
@@ -20,3 +21,10 @@ ngunit nagalit ang tindero na si eimilus patricius
 matapos ito, si jethra electra ay nagbigay ng malupit ng mga biro, ito ay nakakamatay
 
 ginamit na ni jethra ang kanyang natatagong lakas
+=======
+<<<<<<< 98ed86a23fd54dee3377eda94f670f64dbb79a59
+sya ay...
+=======
+lumabas na naman siya..
+>>>>>>> 6df4456be5131a398e8eb2117cc846df223ee9cb
+>>>>>>> 0cd38d6b28a07d4fe133776e3692dca5208344fa
